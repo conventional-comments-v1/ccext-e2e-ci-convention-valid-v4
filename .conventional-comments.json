@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "labels": [
+    {
+      "label": "spotted",
+      "description": "Something noticed during review."
+    },
+    {
+      "label": "approved",
+      "description": "Reviewer-approved change."
+    }
+  ],
+  "decorations": [
+    {
+      "label": "blocker",
+      "description": "Must be addressed before merging."
+    }
+  ],
+  "defaultLabel": "spotted"
+}
